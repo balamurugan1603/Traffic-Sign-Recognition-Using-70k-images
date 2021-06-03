@@ -1,4 +1,4 @@
-# Traffic-Sign-Recognition-Using-70k-images
+# Traffic-Sign-Recognition-Using-CNN
 
 The Data is large to be shared here, So I'm sharing the link,
 * Download Full Traffic Sign Images Data Here - https://www.kaggle.com/flo2607/traffic-signs-classification?select=myData (I do not own the data)
